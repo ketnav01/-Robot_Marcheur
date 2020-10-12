@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_Leg_controller
+    joints:
+      - hand_to_Leg1_Section1
+      - Leg1_Section1_to_Leg1_Section2
+      - Leg1_Section2_to_Leg1_Section3
+initial:  # Define initial robot poses.
+  - group: Leg
+    pose: Curved Leg

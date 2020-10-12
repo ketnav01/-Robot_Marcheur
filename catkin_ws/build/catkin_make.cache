@@ -1,0 +1,2 @@
+udm_project_moveitconfig:walking_Robot
+-DCATKIN_DEVEL_PREFIX=/home/sunkur/Documents/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sunkur/Documents/catkin_ws/install -G Unix Makefiles

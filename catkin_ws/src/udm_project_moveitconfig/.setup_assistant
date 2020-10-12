@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robot_marcheur
+    relative_path: urdf/main.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/hand.srdf
+  CONFIG:
+    author_name: Jesse Sunkur
+    author_email: jesse.sunkur@gmail.com
+    generated_timestamp: 1602431663

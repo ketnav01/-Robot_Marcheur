@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws_sunkur/devel
+
+Name: udm_urdf
+Description: Description of udm_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws/devel
+
+Name: dji_sdk_lib
+Description: Description of dji_sdk_lib
+Version: 0.1.9
+Cflags: -I/home/sunkur/catkin_ws/src/drones/src/dji_ros_sdk/dji_sdk_lib/include
+Libs: -L${prefix}/lib -ldji_sdk_lib
+Requires: 

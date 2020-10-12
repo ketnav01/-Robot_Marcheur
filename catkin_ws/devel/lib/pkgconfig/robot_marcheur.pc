@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws/devel
+
+Name: robot_marcheur
+Description: Description of robot_marcheur
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

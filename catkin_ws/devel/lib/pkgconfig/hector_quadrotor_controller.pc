@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws/devel
+
+Name: hector_quadrotor_controller
+Description: Description of hector_quadrotor_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lhector_quadrotor_controller
+Requires: roscpp

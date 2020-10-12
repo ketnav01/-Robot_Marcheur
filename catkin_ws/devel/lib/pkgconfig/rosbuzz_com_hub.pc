@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws/devel
+
+Name: rosbuzz_com_hub
+Description: Description of rosbuzz_com_hub
+Version: 0.0.0
+Cflags: -I/home/sunkur/catkin_ws/src/drones/src/comm_hub/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs mavros_msgs sensor_msgs

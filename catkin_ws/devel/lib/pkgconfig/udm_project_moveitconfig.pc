@@ -1,0 +1,8 @@
+prefix=/home/sunkur/Documents/catkin_ws/devel
+
+Name: udm_project_moveitconfig
+Description: Description of udm_project_moveitconfig
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

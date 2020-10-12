@@ -1,0 +1,8 @@
+prefix=/home/sunkur/catkin_ws/devel
+
+Name: swarm
+Description: Description of swarm
+Version: 0.0.0
+Cflags: -I/home/sunkur/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
